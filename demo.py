@@ -1,0 +1,1 @@
+print("This is demonstration of the algorithm") 
